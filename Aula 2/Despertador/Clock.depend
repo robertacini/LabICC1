@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490962451 source:c:\users\icmc\desktop\software 1\clock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
