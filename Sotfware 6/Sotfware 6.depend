@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491568639 source:c:\users\icmc\desktop\sotfware 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
