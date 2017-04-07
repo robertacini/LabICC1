@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491566334 source:c:\users\icmc\desktop\relógio\software 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
